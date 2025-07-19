@@ -186,9 +186,8 @@ margin: 0;
   max-width:385px ;
   border-radius: 4px;
   border: 1px solid #338383;
-  margin-bottom: 120px;
   max-height :80px; 
-  
+   margin: 0 auto 120px;
 }
 
 
