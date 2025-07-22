@@ -1,0 +1,19 @@
+.reservation {
+  padding: 120px 0 100px;
+  background: #d9e7ff;
+  font-family: inter, Arial, sans-serif;
+  background-image: url(../images/background_reservation.svg);
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; /* Add this to stack items vertically */
+  margin: 0 auto;
+}
+
+.reservation__title {
+  text-align: center;
+}
+
+.reservation__form {
+  margin: 0 auto;
+  top: 0px;
+}
