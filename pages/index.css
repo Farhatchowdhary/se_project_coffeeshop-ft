@@ -224,7 +224,7 @@
 }
 
 .menu  {
- background-image: url(../images/background_menu.svg);no-repeat center;
+ background-image: url(../images/background_menu.svg);
   background-size: contain;       
   background-position: center;  
   background-repeat: no-repeat; 
